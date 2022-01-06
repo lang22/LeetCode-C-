@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Workspaces/LeetCode/C++/UFSet.h
+iostream
+-
+vector
+-
+
+D:/Workspaces/LeetCode/C++/main.cpp
+iostream
+-
+UFSet.h
+D:/Workspaces/LeetCode/C++/UFSet.h
+

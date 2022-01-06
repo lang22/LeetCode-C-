@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "C++",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"vector": "cpp",
+			"algorithm": "cpp",
+			"limits": "cpp",
+			"utility": "cpp"
+		}
+	}
+}
